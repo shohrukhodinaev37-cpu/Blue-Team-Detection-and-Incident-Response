@@ -14,7 +14,7 @@
 This case study presents a memory forensics investigation of the **Amadey malware** conducted using a Windows memory dump.  
 The objective of this analysis was to identify malicious activity, understand the malware execution flow, and extract actionable **Indicators of Compromise (IOCs)**.
 
-The case demonstrates how **memory analysis** can reveal malicious behavior that may not be visible through traditional disk-based forensic methods.
+The case demonstrates how **memory analysis** can reveal malicious behavior that may not be visible through traditional disk-based forensic methods
 
 ## Scenario
 An after-hours alert from the Endpoint Detection and Response (EDR) system flags suspicious activity on a Windows workstation. The flagged malware aligns with the Amadey Trojan Stealer. Your job is to analyze the presented memory dump and create a detailed report for actions taken by the malware.
